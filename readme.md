@@ -5,6 +5,7 @@ This repository contains a save game file for *Batman: Arkham Origins Blackgate*
 ## Screenshot
 
 ![Beware the batman batsuit Screenshot](./screenshot.png)
+![Beware the batman batsuit power ups Screenshot](./screenshot2.png)
 
 ## About the Save
 
