@@ -1,4 +1,4 @@
-# Batman: Arkham Origins Blackgate - SVE Game
+# Batman: Arkham Origins Blackgate - Vita save game (US Copy)
 
 This repository contains a save game file for *Batman: Arkham Origins Blackgate* on the PlayStation Vita. The save includes the **"Beware the Batman" Batsuit** already unlocked.
 
